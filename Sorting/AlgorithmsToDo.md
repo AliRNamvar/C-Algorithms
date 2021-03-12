@@ -8,3 +8,5 @@
 - Heap sort
 - Shell sort
 - Radix sort
+- Bucket sort
+- Count sort
